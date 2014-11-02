@@ -8,11 +8,11 @@ momo-group-lianliankan
 
 ## 文件说明
 
-├── LICENSE
-├── README.md
-└── RP
-    ├── group-lianliankan.bmml    原型的原始文件(Balsamiq Mockups)
-    └── group-lianliankan.png     原型导出文件
+    ├── LICENSE
+    ├── README.md
+    └── RP
+        ├── group-lianliankan.bmml    原型的原始文件(Balsamiq Mockups)
+        └── group-lianliankan.png     原型导出文件
 
 
 ## 原型编辑工具
